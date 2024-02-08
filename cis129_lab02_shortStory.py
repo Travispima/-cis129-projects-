@@ -3,7 +3,7 @@
 # A short story
 print('I was sitting on the couch one night when I heard a curious noise.')
 print('It sounded as if someone was slowly dragging a full grocery bag across the carpet.')
-Print('I ignored it, lost in my show. A minute later I heard a sharp, hollow thud.')
+print('I ignored it, lost in my show. A minute later I heard a sharp, hollow thud.')
 print('I snapped my head in the direction of the bathroom.')
 print('Another thud sounded, not as loud as the first but equally scary.')
 print('I shot to my feet, eyes fixed on the open bathroon door.')
